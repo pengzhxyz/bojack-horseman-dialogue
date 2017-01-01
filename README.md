@@ -1,2 +1,5 @@
 # bojack-horseman-dialogue
-Simple scenario with Bojack Horseman's dialogue
+
+Bojack Horseman's dialogue
+
+Humor but meaningful sentences
